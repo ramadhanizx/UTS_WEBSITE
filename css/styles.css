@@ -129,9 +129,6 @@
 
 
 
-/* header */
-
-
 header {
   position: relative;
   background-color: black;
@@ -185,7 +182,6 @@ header .overlay {
     display: none;
   }
 }
-
 
 
 
